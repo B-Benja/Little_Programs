@@ -1,0 +1,14 @@
+{
+    "Test01": {
+        "email": "your@email.com",
+        "password": "gAAAAABgrRBAE326oi60nBRNMLEW0XnwVDHCzwWC6QARpczqaPXbd0qBe6fUebWUvjWrcBe1UOnBvl5MBXdJx3oOYN_8vnyQTxmKxEz7S9bNp3_84sNlyi5y0YkN_z2etg_nhBMULQEp"
+    },
+    "Test02": {
+        "email": "your@email.com",
+        "password": "gAAAAABgrRBP4ktFkymb9AfYPOt7p-IUL5GIwdf-c670iYoCX-nhAOUNcB4EwaEJA4JIj-sNgxrFQCjPoa4G2F4Pbd58eSeD6p1oJeRuvdxqXLw0MFIjYMQ="
+    },
+    "Test03": {
+        "email": "my@email.com",
+        "password": "gAAAAABgrRBcIXmTwPaa0e7ljmdetXXhje3iBRvheP2fChQhO51wYRjrQphGhQ6kTyeLV3bww747vCq-yX7XYshF2354StN_o_gVvfRHaCcIrl1EyvMCCnxecow1Tn9WPzYQWnS2MWZ50eoK8lSMnQJpILFHon6Y3w=="
+    }
+}
